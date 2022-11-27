@@ -1,0 +1,6 @@
+This is my second text file. 
+Hello
+How are you?
+
+git checkout -b "Secondary"
+camelCasing
